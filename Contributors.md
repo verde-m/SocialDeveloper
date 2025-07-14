@@ -637,7 +637,6 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2511334 - Ayobami Joseph - JosephAyo </br>
 2511148 - YutoShimmyo </br>
 2511036 - Yuji Ueda - yujiponzu </br>
-2511357 - Hirotaka Monya　(id: catlover-bot) </br>
 2411406 - napoleon-na </br>
 2511218 - Sho-Niimura </br>
 2511205 - Daichi Nakagawa - Daichi343 </br>
@@ -647,13 +646,18 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2511024	- Keitaro Ito </br>
 2511294 - Mori-Eish </br>
 2411427 - Suwanachote Nabhan (id:nabhan-au)<br/>
-2511357 - Hirotaka Monya　(id: catlover-bot) </br>
 2411420 - RAHMAN MIZANUR - ovimizan09 <br/>
 2511218 - Sho-Niimura <br/>
 2511198 - Tomizawa Satoru<br/>
 2411431 - DeathGun3344 <br/>
 2511294 - Mori-Eish </br>
+2511337 - Luo Xiangkun - Luo0105
+2511180 - Masaru Tanibata </br>
+2511246 - Suzuka Higashitsutsumi (id:suzuka215) </br>
 2511337 - Luo Xiangkun - Luo0105 <br/>
 2511180 - Masaru Tanibata <br/>
 2511246 - Suzuka Higashitsutsumi (id:suzuka215) </br>
 2511343 - TANUSA yanisa - emmyyanisa <br/>
+2511060 - Midori Osaki (id:verde-m)
+2511143 - Haruna Joko <br/>
+2511085 - Gakuto Kita (id: PitaPitaPiPiPi) <br/>
